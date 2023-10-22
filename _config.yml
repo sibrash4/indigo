@@ -8,7 +8,7 @@ description: Exploring the intersection of finance, technology, and career growt
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/MaloneCenter_Headshots2023-179 2.jpg
+picture: assets/images/avatar.png
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
@@ -18,10 +18,10 @@ dark-theme: auto
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://sibrash4.github.io/resume/
 
-url: https://sergiokopplin.github.io/indigo
-# your url: https://USERNAME.github.io
+url: https://sibrash4.github.io/indigo/
+#your url: https://USERNAME.github.io
 
 permalink: /:title/
 
@@ -33,20 +33,20 @@ disqus:
   shortname: github # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
-# if you don't have any of social below, comment the line
-#facebook: myfacebook
+#if you don't have any of social below, comment the line
+facebook: ShaukatIbra
 #twitter: mytwitter
-instagram: https://www.instagram.com/shaukat.ibrahim/
-linkedin: www.linkedin.com/in/shaukatibrahim
-github: https://github.com/sibrash4
+instagram: shaukat.ibrahim
+linkedin: shaukatibrahim
+github: sibrash4
 email: contactme@sibrahim.co
 
 authors:
   Shaukat Ibrahim:
     name: Shaukat Ibrahim
-    bio: A tech-savvy finance enthusiast with a love for the outdoors and DIY, humorously planning to swap spreadsheets for saddlebags on a Texas-size ranch in 40 years.
+    bio: A tech and finance enthusiast with a love for the outdoors and DIY, humorously planning to swap spreadsheets for saddlebags on a Texas-size ranch in 40 years.
     external-image: false
-    picture: assets/images/MaloneCenter_Headshots2023-179 2.jpg
+    picture: assets/images/avatar.png
     #twitter: shaukat_ibrahim
 
 
