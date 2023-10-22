@@ -42,12 +42,12 @@ github: https://github.com/sibrash4
 email: contactme@sibrahim.co
 
 authors:
-  johndoe:
+  Shaukat Ibrahim:
     name: Shaukat Ibrahim
     bio: A tech-savvy finance enthusiast with a love for the outdoors and DIY, humorously planning to swap spreadsheets for saddlebags on a Texas-size ranch in 40 years.
     external-image: false
     picture: assets/images/MaloneCenter_Headshots2023-179 2.jpg
-    twitter: shaukat_ibrahim
+    #twitter: shaukat_ibrahim
 
 
 # do you want a larger site? change the option below
